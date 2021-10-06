@@ -1,0 +1,202 @@
+[{
+    "chainId": 101,
+    "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
+    "symbol": "wUST",
+    "name": "Wrapped UST (Wormhole)",
+    "decimals": 9,
+    "tags": ["stablecoin"],
+    "logoURI": "https://assets.coingecko.com/coins/images/12681/small/UST.png",
+    "extensions": {
+      "website": "https://terra.money",
+      "coingeckoId": "terrausd"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 9,
+    "tags": ["stablecoin", "wrapped"],
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+    "extensions": {
+      "website": "https://www.centre.io/",
+      "coingeckoId": "usd-coin",
+      "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT",
+    "symbol": "renLUNA",
+    "name": "renLUNA",
+    "decimals": 9,
+    "tags": ["wrapped"],
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE/logo.png",
+    "extensions": {
+      "website": "https://renproject.io/",
+      "coingeckoId": "wrapped-terra"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
+    "symbol": "pBTC",
+    "name": "pBTC",
+    "decimals": 8,
+    "tags": ["wrapped"],
+    "logoURI": "https://parrot.fi/images/tokens/pbtc.svg",
+    "extensions": {
+      "website": "https://renproject.io/",
+      "coingeckoId": "bitcoin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "decimals": 8,
+    "tags": ["wrapped"],
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+    "extensions": {
+      "website": "https://renproject.io/",
+      "coingeckoId": "bitcoin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
+    "symbol": "renBTC",
+    "name": "renBTC",
+    "decimals": 9,
+    "tags": ["wrapped"],
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+    "extensions": {
+      "website": "https://renproject.io/",
+      "coingeckoId": "bitcoin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 8,
+    "tags": ["stablecoin", "wrapped"],
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+    "extensions": {
+      "website": "https://www.centre.io/",
+      "coingeckoId": "usd-coin",
+      "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt",
+    "symbol": "FTT",
+    "name": "FTT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3/logo.png",
+    "extensions": {
+      "coingeckoId": "ftx-token",
+      "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
+      "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
+    "symbol": "USDK",
+    "name": "USDK",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/8824/small/usdk.png",
+    "extensions": {
+      "coingeckoId": "usdk"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
+    "symbol": "wSRM",
+    "name": "Serum",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/logo.png",
+    "extensions": {
+      "coingeckoId": "serum"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
+    "symbol": "MAI",
+    "name": "MIMATIC",
+    "decimals": 8,
+    "tags": ["stablecoin", "wrapped"],
+    "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png",
+    "extensions": {
+      "coingeckoId": "usd-coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
+    "symbol": "prtSOL",
+    "name": "prtSOL",
+    "decimals": 8,
+    "tags": ["wrapped"],
+    "logoURI": "https://registry.saber.so/token-icons/psol.svg",
+    "extensions": {
+      "coingeckoId": "solana"
+    }
+  },
+  {
+    "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
+    "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
+    "decimals": 9,
+    "symbol": "swhETH-9",
+    "chainId": 101,
+    "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk.png",
+    "tags": ["saber-market-eth", "wormhole-v2", "saber-decimal-wrapped"],
+    "extensions": {
+      "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+      "coingeckoId": "ethereum"
+    }
+  },
+  {
+    "symbol": "weBUSD",
+    "name": "BUSD (ETH Wormhole)",
+    "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+    "decimals": 8,
+    "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
+    "extensions": {
+      "coingeckoId": "binance-usd"
+    },
+    "chainId": 101,
+    "tags": ["saber-market-usd", "wormhole-v2"]
+  },
+  {
+    "symbol": "wUSDK",
+    "name": "USDK (Wormhole)",
+    "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
+    "decimals": 8,
+    "logoURI": "https://registry.saber.so/token-icons/usdk.png",
+    "extensions": {
+      "coingeckoId": "usdk"
+    },
+    "chainId": 101,
+    "tags": ["saber-market-usd", "wormhole-v2"]
+  },
+  {
+    "symbol": "wHUSD",
+    "name": "HUSD (Wormhole)",
+    "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+    "decimals": 8,
+    "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
+    "extensions": {
+      "coingeckoId": "husd"
+    },
+    "chainId": 101,
+    "tags": ["saber-market-usd", "wormhole-v2"]
+  }
+]
