@@ -198,5 +198,47 @@
     },
     "chainId": 101,
     "tags": ["saber-market-usd", "wormhole-v2"]
+  },
+  {
+    "symbol": "wibBTC_V1",
+    "name": "ibBTC (Wormhole V1)",
+    "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
+    "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
+    "decimals": 9,
+    "extensions": {
+      "coingeckoId": "bitcoin"
+    },
+    "chainId": 101,
+    "tags": ["saber-market-btc", "wormhole-v1"]
+  },
+  {
+    "name": "Saber Wrapped Wrapped Bitcoin (Sollet) (9 decimals)",
+    "address": "9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H",
+    "decimals": 9,
+    "symbol": "sBTC-9",
+    "chainId": 101,
+    "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E.png",
+    "tags": [
+      "wrapped-sollet",
+      "ethereum",
+      "saber-market-btc",
+      "saber-decimal-wrapped"
+    ],
+    "extensions": {
+      "assetContract": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+      "coingeckoId": "bitcoin"
+    }
+  },
+  {
+    "symbol": "wFRAX",
+    "name": "FRAX (Wormhole)",
+    "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+    "decimals": 8,
+    "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
+    "extensions": {
+      "coingeckoId": "frax"
+    },
+    "chainId": 101,
+    "tags": ["saber-market-usd", "wormhole-v2", "saber-swappable"]
   }
 ]
