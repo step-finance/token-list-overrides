@@ -1,4 +1,5 @@
-[{
+[
+  {
     "chainId": 101,
     "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
     "symbol": "wUST",
@@ -247,11 +248,7 @@
     "symbol": "sUSDT-9",
     "chainId": 101,
     "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
-    "tags": [
-      "stablecoin",
-      "saber-market-usd",
-      "saber-decimal-wrapped"
-    ],
+    "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
     "extensions": {
       "coingeckoId": "tether"
     }
@@ -266,9 +263,7 @@
       "coingeckoId": "tether"
     },
     "chainId": 101,
-    "tags": [
-      "saber-market-usd"
-    ]
+    "tags": ["saber-market-usd"]
   },
   {
     "symbol": "pUSDC",
@@ -280,9 +275,7 @@
       "coingeckoId": "usd-coin"
     },
     "chainId": 101,
-    "tags": [
-      "saber-market-usd"
-    ]
+    "tags": ["saber-market-usd"]
   },
   {
     "name": "Saber Wrapped Wrapped Ethereum (Sollet) (8 decimals)",
@@ -311,10 +304,7 @@
       "coingeckoId": "ethereum"
     },
     "chainId": 101,
-    "tags": [
-      "saber-market-eth",
-      "wormhole-v2"
-    ]
+    "tags": ["saber-market-eth", "wormhole-v2"]
   },
   {
     "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
@@ -323,11 +313,7 @@
     "symbol": "swFTT-9",
     "chainId": 101,
     "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3.png",
-    "tags": [
-      "saber-market-ftt",
-      "wormhole-v2",
-      "saber-decimal-wrapped"
-    ],
+    "tags": ["saber-market-ftt", "wormhole-v2", "saber-decimal-wrapped"],
     "extensions": {
       "coingeckoId": "ftx-token"
     }
