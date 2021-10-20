@@ -400,5 +400,22 @@
     "extensions": {
       "coingeckoId": "ftx-token"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
+    "symbol": "pBTC",
+    "name": "pBTC (Parrot BTC)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun/logo.svg",
+    "tags": ["stablecoin"],
+    "extensions": {
+      "website": "https://parrot.fi",
+      "twitter": "https://twitter.com/gopartyparrot",
+      "telegram": "https://t.me/gopartyparrot",
+      "medium": "https://gopartyparrot.medium.com/",
+      "discord": "https://discord.gg/gopartyparrot",
+      "coingeckoId": "bitcoin"
+    }
   }
 ]
