@@ -152,101 +152,101 @@
     }
   },
   {
-    "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
-    "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
-    "decimals": 9,
-    "symbol": "swhETH-9",
     "chainId": 101,
-    "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk.png",
+    "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
+    "symbol": "swhETH-9",
+    "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
+    "decimals": 9,
     "tags": ["saber-market-eth", "wormhole-v2", "saber-decimal-wrapped"],
+    "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk.png",
     "extensions": {
       "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
       "coingeckoId": "ethereum"
     }
   },
   {
+    "chainId": 101,
+    "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
     "symbol": "weBUSD",
     "name": "BUSD (ETH Wormhole)",
-    "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
     "decimals": 8,
+    "tags": ["saber-market-usd", "wormhole-v2"],
     "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
     "extensions": {
       "coingeckoId": "binance-usd"
-    },
-    "chainId": 101,
-    "tags": ["saber-market-usd", "wormhole-v2"]
+    }
   },
   {
+    "chainId": 101,
+    "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
     "symbol": "wUSDK",
     "name": "USDK (Wormhole)",
-    "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
     "decimals": 8,
+    "tags": ["saber-market-usd", "wormhole-v2"],
     "logoURI": "https://registry.saber.so/token-icons/usdk.png",
     "extensions": {
       "coingeckoId": "usdk"
-    },
-    "chainId": 101,
-    "tags": ["saber-market-usd", "wormhole-v2"]
+    }
   },
   {
+    "chainId": 101,
+    "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
     "symbol": "wHUSD",
     "name": "HUSD (Wormhole)",
-    "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
     "decimals": 8,
+    "tags": ["saber-market-usd", "wormhole-v2"],
     "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
     "extensions": {
       "coingeckoId": "husd"
-    },
-    "chainId": 101,
-    "tags": ["saber-market-usd", "wormhole-v2"]
+    }
   },
   {
+    "chainId": 101,
+    "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
     "symbol": "wibBTC_V1",
     "name": "ibBTC (Wormhole V1)",
-    "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
-    "address": "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
     "decimals": 9,
+    "tags": ["saber-market-btc", "wormhole-v1"],
+    "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
     "extensions": {
       "coingeckoId": "bitcoin"
-    },
-    "chainId": 101,
-    "tags": ["saber-market-btc", "wormhole-v1"]
+    }
   },
   {
-    "name": "Saber Wrapped Wrapped Bitcoin (Sollet) (9 decimals)",
-    "address": "9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H",
-    "decimals": 9,
-    "symbol": "sBTC-9",
     "chainId": 101,
-    "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E.png",
+    "address": "9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H",
+    "symbol": "sBTC-9",
+    "name": "Saber Wrapped Wrapped Bitcoin (Sollet) (9 decimals)",
+    "decimals": 9,
     "tags": [
       "wrapped-sollet",
       "ethereum",
       "saber-market-btc",
       "saber-decimal-wrapped"
     ],
+    "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E.png",
     "extensions": {
       "coingeckoId": "bitcoin"
     }
   },
   {
+    "chainId": 101,
+    "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
     "symbol": "wFRAX",
     "name": "FRAX (Wormhole)",
-    "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
     "decimals": 8,
     "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
     "extensions": {
       "coingeckoId": "frax"
     },
-    "chainId": 101,
     "tags": ["saber-market-usd", "wormhole-v2", "saber-swappable"]
   },
   {
-    "name": "Saber Wrapped USDT (9 decimals)",
-    "address": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
-    "decimals": 9,
-    "symbol": "sUSDT-9",
     "chainId": 101,
+    "address": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
+    "symbol": "sUSDT-9",
+    "name": "Saber Wrapped USDT (9 decimals)",
+    "decimals": 9,
     "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
     "tags": ["stablecoin", "saber-market-usd", "saber-decimal-wrapped"],
     "extensions": {
@@ -254,35 +254,35 @@
     }
   },
   {
+    "chainId": 101,
+    "address": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
     "symbol": "pUSDT",
     "name": "Port USDT",
-    "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
-    "address": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
     "decimals": 6,
+    "logoURI": "https://registry.saber.so/token-icons/usdt.svg",
+    "tags": ["saber-market-usd"],
     "extensions": {
       "coingeckoId": "tether"
-    },
-    "chainId": 101,
-    "tags": ["saber-market-usd"]
+    }
   },
   {
+    "chainId": 101,
+    "address": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
     "symbol": "pUSDC",
     "name": "Port USDC",
-    "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
-    "address": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
     "decimals": 6,
+    "logoURI": "https://registry.saber.so/token-icons/usdc.svg",
+    "tags": ["saber-market-usd"],
     "extensions": {
       "coingeckoId": "usd-coin"
-    },
-    "chainId": 101,
-    "tags": ["saber-market-usd"]
+    }
   },
   {
-    "name": "Saber Wrapped Wrapped Ethereum (Sollet) (8 decimals)",
-    "address": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
-    "decimals": 8,
-    "symbol": "sETH-8",
     "chainId": 101,
+    "address": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
+    "symbol": "sETH-8",
+    "name": "Saber Wrapped Wrapped Ethereum (Sollet) (8 decimals)",
+    "decimals": 8,
     "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk.png",
     "tags": [
       "wrapped-sollet",
@@ -295,23 +295,23 @@
     }
   },
   {
+    "chainId": 101,
+    "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
     "symbol": "whETH",
     "name": "Ether (Wormhole)",
-    "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
     "decimals": 8,
     "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk.png",
+    "tags": ["saber-market-eth", "wormhole-v2"],
     "extensions": {
       "coingeckoId": "ethereum"
-    },
-    "chainId": 101,
-    "tags": ["saber-market-eth", "wormhole-v2"]
+    }
   },
   {
-    "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
-    "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
-    "decimals": 9,
-    "symbol": "swFTT-9",
     "chainId": 101,
+    "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
+    "symbol": "swFTT-9",
+    "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
+    "decimals": 9,
     "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3.png",
     "tags": ["saber-market-ftt", "wormhole-v2", "saber-decimal-wrapped"],
     "extensions": {
