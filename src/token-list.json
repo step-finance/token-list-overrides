@@ -1,6 +1,89 @@
 [
   {
     "chainId": 101,
+    "address": "Ejmc1UB4EsES5oAaRN63SpoxMJidt3ZGBrqrZk49vjTZ",
+    "name": "Solana",
+    "decimals": 9,
+    "symbol": "SOL",
+    "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
+    "tags": [],
+    "extensions": {
+      "website": "https://solana.com/",
+      "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+      "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+      "coingeckoId": "solana",
+      "waterfallbot": "https://t.me/SOLwaterfall"
+    }
+  },
+  {
+    "chainId": 102,
+    "address": "Ejmc1UB4EsES5oAaRN63SpoxMJidt3ZGBrqrZk49vjTZ",
+    "name": "Solana",
+    "decimals": 9,
+    "symbol": "SOL",
+    "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
+    "tags": [],
+    "extensions": {
+      "website": "https://solana.com/",
+      "coingeckoId": "solana",
+      "waterfallbot": "https://t.me/SOLwaterfall"
+    }
+  },
+  {
+    "chainId": 103,
+    "address": "Ejmc1UB4EsES5oAaRN63SpoxMJidt3ZGBrqrZk49vjTZ",
+    "name": "Solana",
+    "decimals": 9,
+    "symbol": "SOL",
+    "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
+    "tags": [],
+    "extensions": {
+      "website": "https://solana.com/",
+      "coingeckoId": "solana",
+      "waterfallbot": "https://t.me/SOLwaterfall"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "So11111111111111111111111111111111111111112",
+    "symbol": "WSOL",
+    "name": "Wrapped SOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+    "tags": [],
+    "extensions": {
+      "website": "https://www.solana.com/",
+      "coingeckoId": "solana"
+    }
+  },
+  {
+    "chainId": 102,
+    "address": "So11111111111111111111111111111111111111112",
+    "symbol": "WSOL",
+    "name": "Wrapped SOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+    "tags": [],
+    "extensions": {
+      "website": "https://www.solana.com/",
+      "coingeckoId": "solana"
+    }
+  },
+  {
+    "chainId": 103,
+    "address": "So11111111111111111111111111111111111111112",
+    "symbol": "WSOL",
+    "name": "Wrapped SOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+    "tags": [],
+    "extensions": {
+      "website": "https://www.solana.com/",
+      "coingeckoId": "solana"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
     "symbol": "wUST",
     "name": "Wrapped UST (Wormhole)",
