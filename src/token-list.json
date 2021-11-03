@@ -417,5 +417,63 @@
       "discord": "https://discord.gg/gopartyparrot",
       "coingeckoId": "bitcoin"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
+    "symbol": "pSOL",
+    "name": "pSOL (Parrot SOL)",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX/logo.svg",
+    "tags": ["stablecoin"],
+    "extensions": {
+      "website": "https://parrot.fi",
+      "twitter": "https://twitter.com/gopartyparrot",
+      "telegram": "https://t.me/gopartyparrot",
+      "medium": "https://gopartyparrot.medium.com/",
+      "discord": "https://discord.gg/gopartyparrot",
+      "coingeckoId": "solana"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+    "symbol": "stSOL",
+    "name": "Lido Staked SOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj/logo.png",
+    "tags": [],
+    "extensions": {
+      "website": "https://solana.lido.fi/",
+      "twitter": "https://twitter.com/LidoFinance/",
+      "coingeckoId": "lido-staked-sol"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
+    "symbol": "wLDO",
+    "name": "Wormhole-wrapped Lido DAO Token",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
+    "tags": [],
+    "extensions": {
+      "website": "https://lido.fi/",
+      "twitter": "https://twitter.com/LidoFinance/",
+      "coingeckoId": "lido-dao"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
+    "symbol": "MAI",
+    "name": "miMATIC",
+    "decimals": 9,
+    "logoURI": "https://registry.saber.so/token-icons/mai.svg",
+    "tags": [],
+    "extensions": {
+      "website": "https://www.mai.finance/",
+      "coingeckoId": "mimatic"
+    }
   }
 ]
