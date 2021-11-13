@@ -533,5 +533,18 @@
       "description": "Aurory Token",
       "coingeckoId": "aurory"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "FaiPGacTM7YBmacumbg4ZnDx7sKtGcG3LkcVoqfddEA7",
+    "symbol": "BULL",
+    "name": "theBULL Coin",
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FaiPGacTM7YBmacumbg4ZnDx7sKtGcG3LkcVoqfddEA7/logo.png",
+    "tags": ["community-token", "meme-token", "nft"],
+    "extensions": {
+      "twitter": "https://twitter.com/theBULL_NFT",
+      "discord": "https://discord.com/invite/B6sd88UVmD"
+    }
   }
 ]
