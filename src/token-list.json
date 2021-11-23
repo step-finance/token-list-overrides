@@ -549,7 +549,7 @@
   },
   {
     "chainId": 101,
-    "address": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs",
+    "address": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
     "symbol": "wbBUSD",
     "name": "BUSD (Wormhole v2 BSC)",
     "decimals": 6,
