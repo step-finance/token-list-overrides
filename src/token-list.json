@@ -546,5 +546,41 @@
       "twitter": "https://twitter.com/theBULL_NFT",
       "discord": "https://discord.com/invite/B6sd88UVmD"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs",
+    "symbol": "wbBUSD",
+    "name": "BUSD (Wormhole v2 BSC)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2/logo.png",
+    "tags": [],
+    "extensions": {
+      "coingeckoId": "binance-usd"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
+    "symbol": "wbUSDC",
+    "name": "USDC (Wormhole v2 BSC)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA/logo.png",
+    "tags": [],
+    "extensions": {
+      "coingeckoId": "usd-coin"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
+    "symbol": "wbUSDT",
+    "name": "USDT (Wormhole v2 BSC)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv/logo.png",
+    "tags": [],
+    "extensions": {
+      "coingeckoId": "tether"
+    }
   }
 ]
