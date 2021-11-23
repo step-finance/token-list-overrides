@@ -594,7 +594,7 @@
       "utility-token"
     ],
     "extensions": {
-      "coingeckoId": "sonar"
+      "coingeckoId": "sonarwatch"
     }
   },
   {
