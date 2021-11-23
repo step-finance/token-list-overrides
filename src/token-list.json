@@ -582,5 +582,44 @@
     "extensions": {
       "coingeckoId": "tether"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE",
+    "symbol": "SONAR",
+    "name": "Sonar Watch",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE/logo.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "coingeckoId": "sonar"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo",
+    "symbol": "CWAR",
+    "name": "Cryowar Token",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo/logo.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "coingeckoId": "cryowar-token"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "HCgybxq5Upy8Mccihrp7EsmwwFqYZtrHrsmsKwtGXLgW",
+    "symbol": "STARS",
+    "name": "StarLaunch",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HCgybxq5Upy8Mccihrp7EsmwwFqYZtrHrsmsKwtGXLgW/logo.png",
+    "extensions": {
+      "coingeckoId": "starlaunch"
+    }
   }
 ]
