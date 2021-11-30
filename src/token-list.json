@@ -1,5 +1,4 @@
-[
-  {
+[{
     "chainId": 101,
     "address": "11111111111111111111111111111111",
     "name": "Solana",
@@ -682,6 +681,62 @@
     ],
     "extensions": {
       "coingeckoId": "soltato-fries"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "CobcsUrt3p91FwvULYKorQejgsm5HoQdv5T8RUZ6PnLA",
+    "symbol": "wePEOPLE",
+    "name": "ConstitutionDAO (Wormhole)",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/20612/large/GN_UVm3d_400x400.jpg",
+    "tags": [
+      "wrapped",
+      "wormhole"
+    ],
+    "extensions": {
+      "coingeckoId": "constitutiondao"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
+    "symbol": "wbWBNB",
+    "name": "WBNB (Wormhole v2 BSC)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2/logo.png",
+    "tags": [
+      "wrapped",
+      "wormhole"
+    ],
+    "extensions": {
+      "coingeckoId": "wbnb"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5",
+    "symbol": "weAXS",
+    "name": "Axie Infinity Shard (Wormhole)",
+    "decimals": 8,
+    "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVUzbiJP2xm2rH69Y42rmTxD8MZxEpGmvdfVKe551zZcR/",
+    "tags": [
+      "wrapped",
+      "wormhole"
+    ],
+    "extensions": {
+      "coingeckoId": "axie-infinity"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z",
+    "symbol": "AVAX",
+    "name": "AVAX (Allbridge from Avalanche)",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png",
+    "extensions": {
+      "coingeckoId": "avalanche-2"
     }
   }
 ]
