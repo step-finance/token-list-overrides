@@ -701,13 +701,16 @@
   {
     "chainId": 101,
     "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
-    "symbol": "wbBNB",
-    "name": "BNB (Wormhole v2 BSC)",
+    "symbol": "wbWBNB",
+    "name": "WBNB (Wormhole v2 BSC)",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2/logo.png",
-    "tags": [],
+    "tags": [
+      "wrapped",
+      "wormhole"
+    ],
     "extensions": {
-      "coingeckoId": "binancecoin"
+      "coingeckoId": "wbnb"
     }
   },
   {
