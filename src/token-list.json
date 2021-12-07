@@ -738,5 +738,60 @@
     "extensions": {
       "coingeckoId": "avalanche-2"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "FNFKRV3V8DtA3gVJN6UshMiLGYA8izxFwkNWmJbFjmRj",
+    "symbol": "TTT",
+    "name": "TabTrader Token",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FNFKRV3V8DtA3gVJN6UshMiLGYA8izxFwkNWmJbFjmRj/logo.svg",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "coingeckoId": "tabtrader"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "333iHoRM2Awhf9uVZtSyTfU8AekdGrgQePZsKMFPgKmS",
+    "symbol": "ISOLA",
+    "name": "Intersola",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/333iHoRM2Awhf9uVZtSyTfU8AekdGrgQePZsKMFPgKmS/logo.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "coingeckoId": "intersola"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m",
+    "symbol": "STR",
+    "name": "Solster",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m/logo.png",
+    "extensions": {
+      "coingeckoId": "solster"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "kiNeKo77w1WBEzFFCXrTDRWGRWGP8yHvKC9rX6dqjQh",
+    "symbol": "KKO",
+    "name": "Kineko",
+    "decimals": 9,
+    "logoURI": "https://kineko.io/img/cat.jpg",
+    "tags": [
+      "DeFi",
+      "Gaming",
+      "Gambling"
+    ],
+    "extensions": {
+      "coingeckoId": "kineko"
+    }
   }
 ]
