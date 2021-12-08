@@ -1,4 +1,5 @@
-[{
+[
+  {
     "chainId": 101,
     "address": "11111111111111111111111111111111",
     "name": "Solana",
@@ -589,9 +590,7 @@
     "name": "Sonar Watch",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE/logo.png",
-    "tags": [
-      "utility-token"
-    ],
+    "tags": ["utility-token"],
     "extensions": {
       "coingeckoId": "sonarwatch"
     }
@@ -603,9 +602,7 @@
     "name": "Cryowar Token",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo/logo.png",
-    "tags": [
-      "utility-token"
-    ],
+    "tags": ["utility-token"],
     "extensions": {
       "coingeckoId": "cryowar-token"
     }
@@ -628,9 +625,7 @@
     "name": "Project SEED Token",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6cVgJUqo4nmvQpbgrDZwyfd6RwWw5bfnCamS3M9N1fd/logo.png",
-    "tags": [
-      "projectseedtoken"
-    ],
+    "tags": ["projectseedtoken"],
     "extensions": {
       "coingeckoId": "shill-token"
     }
@@ -642,12 +637,7 @@
     "name": "Apple Fruit",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8E5W9PMhnEvdvM2Q9XBLMJW7UsFiieXnRHPj8zhtB23h/logo.png",
-    "tags": [
-      "community-token",
-      "meme-coin",
-      "fruit",
-      "apple-coin"
-    ],
+    "tags": ["community-token", "meme-coin", "fruit", "apple-coin"],
     "extensions": {
       "coingeckoId": "apple"
     }
@@ -659,11 +649,7 @@
     "name": "SolDate(DATE) Token",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ce3PSQfkxT5ua4r2JqCoWYrMwKWC5hEzwsrT9Hb7mAz9/DATE.svg",
-    "tags": [
-      "social-token",
-      "dating-token",
-      "metaverse"
-    ],
+    "tags": ["social-token", "dating-token", "metaverse"],
     "extensions": {
       "coingeckoId": "soldate-token"
     }
@@ -675,10 +661,7 @@
     "name": "Soltato FRIES",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FriCEbw1V99GwrJRXPnSQ6su2TabHabNxiZ3VNsVFPPN/logo.png",
-    "tags": [
-      "nft",
-      "utility-token"
-    ],
+    "tags": ["nft", "utility-token"],
     "extensions": {
       "coingeckoId": "soltato-fries"
     }
@@ -690,10 +673,7 @@
     "name": "ConstitutionDAO (Wormhole)",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/20612/large/GN_UVm3d_400x400.jpg",
-    "tags": [
-      "wrapped",
-      "wormhole"
-    ],
+    "tags": ["wrapped", "wormhole"],
     "extensions": {
       "coingeckoId": "constitutiondao"
     }
@@ -705,10 +685,7 @@
     "name": "WBNB (Wormhole v2 BSC)",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2/logo.png",
-    "tags": [
-      "wrapped",
-      "wormhole"
-    ],
+    "tags": ["wrapped", "wormhole"],
     "extensions": {
       "coingeckoId": "wbnb"
     }
@@ -720,10 +697,7 @@
     "name": "Axie Infinity Shard (Wormhole)",
     "decimals": 8,
     "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVUzbiJP2xm2rH69Y42rmTxD8MZxEpGmvdfVKe551zZcR/",
-    "tags": [
-      "wrapped",
-      "wormhole"
-    ],
+    "tags": ["wrapped", "wormhole"],
     "extensions": {
       "coingeckoId": "axie-infinity"
     }
@@ -746,9 +720,7 @@
     "name": "TabTrader Token",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FNFKRV3V8DtA3gVJN6UshMiLGYA8izxFwkNWmJbFjmRj/logo.svg",
-    "tags": [
-      "utility-token"
-    ],
+    "tags": ["utility-token"],
     "extensions": {
       "coingeckoId": "tabtrader"
     }
@@ -760,9 +732,7 @@
     "name": "Intersola",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/333iHoRM2Awhf9uVZtSyTfU8AekdGrgQePZsKMFPgKmS/logo.png",
-    "tags": [
-      "utility-token"
-    ],
+    "tags": ["utility-token"],
     "extensions": {
       "coingeckoId": "intersola"
     }
@@ -785,11 +755,7 @@
     "name": "Kineko",
     "decimals": 9,
     "logoURI": "https://kineko.io/img/cat.jpg",
-    "tags": [
-      "DeFi",
-      "Gaming",
-      "Gambling"
-    ],
+    "tags": ["DeFi", "Gaming", "Gambling"],
     "extensions": {
       "coingeckoId": "kineko"
     }
@@ -801,10 +767,7 @@
     "name": "Synex Coin",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTkj421DxbS1wajE74J34BJ5a1o9ccA97PkK6mYq9hNQ/logo.png",
-    "tags": [
-      "utility-token",
-      "community-token"
-    ],
+    "tags": ["utility-token", "community-token"],
     "extensions": {
       "coingeckoId": "synex-coin"
     }
@@ -816,9 +779,7 @@
     "name": "Cashio Dollar",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
-    "tags": [
-      "stablecoin"
-    ],
+    "tags": ["stablecoin"],
     "extensions": {
       "coingeckoId": "cashio-token"
     }
@@ -830,9 +791,7 @@
     "name": "Swerve Protocol",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/swervesolana/swerve-assets/main/logo_400x400.jpg",
-    "tags": [
-      "DeFi"
-    ],
+    "tags": ["DeFi"],
     "extensions": {
       "coingeckoId": "swerve-protocol"
     }
@@ -844,13 +803,7 @@
     "name": "UXP Governance Token",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UXPhBoR3qG4UCiGNJfV7MqhHyFqKN68g45GoYvAeL2M/logo.png",
-    "tags": [
-      "UXD",
-      "UXP",
-      "governance",
-      "DAO",
-      "stablecoin"
-    ],
+    "tags": ["UXD", "UXP", "governance", "DAO", "stablecoin"],
     "extensions": {
       "coingeckoId": "uxd-protocol-token"
     }
@@ -862,10 +815,7 @@
     "name": "Samusky Token",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SAMUmmSvrE8yqtcG94oyP1Zu2P9t8PSRSV3vewsGtPM/logo.png",
-    "tags": [
-      "social-token",
-      "community-token"
-    ],
+    "tags": ["social-token", "community-token"],
     "extensions": {
       "coingeckoId": "samusky-token"
     }
@@ -921,9 +871,7 @@
     "name": "SolaLambo",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EkDf4Nt89x4Usnxkj4sGHX7sWxkmmpiBzA4qdDkgEN6b/logo.png",
-    "tags": [
-      "community-token"
-    ],
+    "tags": ["community-token"],
     "extensions": {
       "coingeckoId": "solalambo"
     }
@@ -953,9 +901,7 @@
     "name": "Solareum",
     "decimals": 9,
     "logoURI": "https://solareum.app/icons/XSB-G.png",
-    "tags": [
-      "community-token"
-    ],
+    "tags": ["community-token"],
     "extensions": {
       "coingeckoId": "solareum-wallet"
     }
@@ -967,11 +913,7 @@
     "name": "Sphinxel",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H6JocWxg5g1Lcs4oPnBecmjQ4Y1bkZhGJHtjMunmjyrp/logo.png",
-    "tags": [
-      "meme-token",
-      "community-token",
-      "trading-token"
-    ],
+    "tags": ["meme-token", "community-token", "trading-token"],
     "extensions": {
       "coingeckoId": "sphinxel"
     }
