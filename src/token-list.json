@@ -939,5 +939,17 @@
     "extensions": {
       "coingeckoId": "crowny-token"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+    "symbol": "wtUST",
+    "name": "UST (Wormhole)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png",
+    "tags": ["wrapped", "wormhole"],
+    "extensions": {
+      "coingeckoId": "terrausd"
+    }
   }
 ]
