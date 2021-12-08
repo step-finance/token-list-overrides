@@ -986,5 +986,16 @@
     "extensions": {
       "coingeckoId": "xhashtag"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "CRWNYkqdgvhGGae9CKfNka58j6QQkaD5bLhKXvUYqnc1",
+    "symbol": "CRWNY",
+    "name": "Crowny Token",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/14958/small/crowny-icon-rounded_2x.png",
+    "extensions": {
+      "coingeckoId": "crowny-token"
+    }
   }
 ]
