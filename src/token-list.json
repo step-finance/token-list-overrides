@@ -794,24 +794,186 @@
       "coingeckoId": "kineko"
     }
   },
-   {
-      "chainId": 101,
-      "address": "FTkj421DxbS1wajE74J34BJ5a1o9ccA97PkK6mYq9hNQ",
-      "symbol": "MINECRAFT",
-      "name": "Synex Coin",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTkj421DxbS1wajE74J34BJ5a1o9ccA97PkK6mYq9hNQ/logo.png",
-      "tags": [
-        "utility-token",
-        "community-token"
-      ],
-      "extensions": {
-        "coingeckoId": "synex-coin",
-        "coinmarketcap": "https://coinmarketcap.com/currencies/synex-coin/",
-        "serumV3Usdc": "HYH4sxk2pCZMJV7pSzg1davjfJbSTVzg5onJUMAMo83r",
-        "discord": "https://discord.gg/N3BE44234A",
-        "telegram": "https://t.me/synexcoin",
-        "website": "https://synexcoin.dev"
-      }
+  {
+    "chainId": 101,
+    "address": "FTkj421DxbS1wajE74J34BJ5a1o9ccA97PkK6mYq9hNQ",
+    "symbol": "MINECRAFT",
+    "name": "Synex Coin",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTkj421DxbS1wajE74J34BJ5a1o9ccA97PkK6mYq9hNQ/logo.png",
+    "tags": [
+      "utility-token",
+      "community-token"
+    ],
+    "extensions": {
+      "coingeckoId": "synex-coin",
     }
+  },
+  {
+    "chainId": 101,
+    "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+    "symbol": "CASH",
+    "name": "Cashio Dollar",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+    "tags": [
+      "stablecoin"
+    ],
+    "extensions": {
+      "coingeckoId": "cashio-token"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "45ojchnvC3agGNvs86MWBq8N4miiTY6X8ECQzgQNDE4v",
+    "symbol": "SWERVE",
+    "name": "Swerve Protocol",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/swervesolana/swerve-assets/main/logo_400x400.jpg",
+    "tags": [
+      "DeFi"
+    ],
+    "extensions": {
+      "coingeckoId": "swerve-protocol"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "UXPhBoR3qG4UCiGNJfV7MqhHyFqKN68g45GoYvAeL2M",
+    "symbol": "UXP",
+    "name": "UXP Governance Token",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UXPhBoR3qG4UCiGNJfV7MqhHyFqKN68g45GoYvAeL2M/logo.png",
+    "tags": [
+      "UXD",
+      "UXP",
+      "governance",
+      "DAO",
+      "stablecoin"
+    ],
+    "extensions": {
+      "coingeckoId": "uxd-protocol-token"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "SAMUmmSvrE8yqtcG94oyP1Zu2P9t8PSRSV3vewsGtPM",
+    "symbol": "SAMU",
+    "name": "Samusky Token",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SAMUmmSvrE8yqtcG94oyP1Zu2P9t8PSRSV3vewsGtPM/logo.png",
+    "tags": [
+      "social-token",
+      "community-token"
+    ],
+    "extensions": {
+      "coingeckoId": "samusky-token"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "7j7H7sgsnNDeCngAPjpaCN4aaaru4HS7NAFYSEUyzJ3k",
+    "symbol": "SOLR",
+    "name": "SolRazr",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7j7H7sgsnNDeCngAPjpaCN4aaaru4HS7NAFYSEUyzJ3k/SOLR.png",
+    "extensions": {
+      "coingeckoId": "solrazr"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "EwJN2GqUGXXzYmoAciwuABtorHczTA5LqbukKXV1viH7",
+    "symbol": "UPS",
+    "name": "UPS token (UPFI Network)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EwJN2GqUGXXzYmoAciwuABtorHczTA5LqbukKXV1viH7/logo.png",
+    "extensions": {
+      "coingeckoId": "upfi-network"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7",
+    "symbol": "DINO",
+    "name": "DINO",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7/logo.png",
+    "extensions": {
+      "coingeckoId": "dino"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "9TE7ebz1dsFo1uQ2T4oYAKSm39Y6fWuHrd6Uk6XaiD16",
+    "symbol": "MIMO",
+    "name": "Million Monke",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9TE7ebz1dsFo1uQ2T4oYAKSm39Y6fWuHrd6Uk6XaiD16/logo.png",
+    "extensions": {
+      "coingeckoId": "million-monke"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "EkDf4Nt89x4Usnxkj4sGHX7sWxkmmpiBzA4qdDkgEN6b",
+    "symbol": "SOB",
+    "name": "SolaLambo",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EkDf4Nt89x4Usnxkj4sGHX7sWxkmmpiBzA4qdDkgEN6b/logo.png",
+    "tags": [
+      "community-token"
+    ],
+    "extensions": {
+      "coingeckoId": "solalambo"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "7puG5H5Mc6QpvaXjAVLr6GnL5hhUMnpLcUm8G3mEsgHQ",
+    "symbol": "LEONIDAS",
+    "name": "Leonidas Token",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7puG5H5Mc6QpvaXjAVLr6GnL5hhUMnpLcUm8G3mEsgHQ/logo.png",
+    "tags": [
+      "community-token",
+      "utility-token",
+      "social-token",
+      "NFTs",
+      "DeFi"
+    ],
+    "extensions": {
+      "coingeckoId": "leonidas-token"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "4UuGQgkD3rSeoXatXRWwRfRd21G87d5LiCfkVzNNv1Tt",
+    "symbol": "XSB",
+    "name": "Solareum",
+    "decimals": 9,
+    "logoURI": "https://solareum.app/icons/XSB-G.png",
+    "tags": [
+      "community-token"
+    ],
+    "extensions": {
+      "coingeckoId": "solareum-wallet"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "H6JocWxg5g1Lcs4oPnBecmjQ4Y1bkZhGJHtjMunmjyrp",
+    "symbol": "SPX",
+    "name": "Sphinxel",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H6JocWxg5g1Lcs4oPnBecmjQ4Y1bkZhGJHtjMunmjyrp/logo.png",
+    "tags": [
+      "meme-token",
+      "community-token",
+      "trading-token"
+    ],
+    "extensions": {
+      "coingeckoId": "sphinxel"
+    }
+  }
 ]
