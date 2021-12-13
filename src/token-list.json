@@ -1,5 +1,4 @@
-[
-  {
+[{
     "chainId": 101,
     "address": "11111111111111111111111111111111",
     "name": "Solana",
@@ -950,6 +949,88 @@
     "tags": ["wrapped", "wormhole"],
     "extensions": {
       "coingeckoId": "terrausd"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb",
+    "symbol": "REAL",
+    "name": "Realy Token",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb/logo.svg",
+    "tags": [
+      "Metaverse",
+      "Governance-token"
+    ],
+    "extensions": {
+      "coingeckoId": "realy-metaverse"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "Basis9oJw9j8cw53oMV7iqsgo6ihi9ALw4QR31rcjUJa",
+    "symbol": "BASIS",
+    "name": "basis",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Basis9oJw9j8cw53oMV7iqsgo6ihi9ALw4QR31rcjUJa/logo.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "coingeckoId": "basis-markets"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "7xzovRepzLvXbbpVZLYKzEBhCNgStEv1xpDqf1rMFFKX",
+    "symbol": "KERMIT",
+    "name": "Kermit",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7xzovRepzLvXbbpVZLYKzEBhCNgStEv1xpDqf1rMFFKX/logo.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "coingeckoId": "kermit"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk",
+    "symbol": "BLOCK",
+    "name": "Blockasset",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk/logo.png",
+    "extensions": {
+      "coingeckoId": "blockasset"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "H5gczCNbrtso6BqGKihF97RaWaxpUEZnFuFUKK4YX3s2",
+    "symbol": "BDE",
+    "name": "Big Defi Energy",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/bigchickendefi/bigchicken/main/logo.png",
+    "extensions": {
+      "coingeckoId": "big-defi-energy"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx",
+    "symbol": "SBFC",
+    "name": "SBF Coin",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx/logo.png",
+    "tags": [
+      "utility-token",
+      "SBF",
+      "sbfcoin",
+      "SBFC"
+    ],
+    "extensions": {
+      "coingeckoId": "sbf-coin"
     }
   }
 ]
