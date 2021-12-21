@@ -1107,5 +1107,64 @@
     "extensions": {
       "coingeckoId": "ween-token"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2",
+    "symbol": "CHICKS",
+    "name": "SolChicks",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2/logo.png",
+    "tags": [
+      "gaming",
+      "nfts",
+      "utility-token",
+      "community-token"
+    ],
+    "extensions": {
+      "coingeckoId": "solchicks-token"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF",
+    "symbol": "1SOL",
+    "name": "1sol.io Token",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF/logo.png",
+    "tags": [
+      "wrapped",
+      "utility-token",
+      "aggregator"
+    ],
+    "extensions": {
+      "coingeckoId": "1sol"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "FANTafPFBAt93BNJVpdu25pGPmca3RfwdsDsRrT3LX1r",
+    "symbol": "FANT",
+    "name": "Phantasia",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FANTafPFBAt93BNJVpdu25pGPmca3RfwdsDsRrT3LX1r/logo.png",
+    "tags": [
+      "utility-token",
+      "governance-token"
+    ],
+    "extensions": {
+      "coingeckoId": "phantasia"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "BDrL8huis6S5tpmozaAaT5zhE5A7ZBAB2jMMvpKEeF8A",
+    "symbol": "NOVA",
+    "name": "NOVA FINANCE",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BDrL8huis6S5tpmozaAaT5zhE5A7ZBAB2jMMvpKEeF8A/logo.svg",
+    "extensions": {
+      "coingeckoId": "nova-finance"
+    }
   }
 ]
