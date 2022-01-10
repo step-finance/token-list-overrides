@@ -1166,5 +1166,171 @@
     "extensions": {
       "coingeckoId": "nova-finance"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z",
+    "symbol": "AVAX",
+    "name": "AVAX (Allbridge from Avalanche)",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png",
+    "extensions": {
+      "coingeckoId": "avalanche-2"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE",
+    "symbol": "AVAX",
+    "name": "AVAX (Wormhole)",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
+    "tags": [
+      "wrapped"
+    ],
+    "extensions": {
+      "coingeckoId": "avalanche-2"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "SCYfrGCw8aDiqdgcpdGjV6jp4UVVQLuphxTDLNWu36f",
+    "symbol": "SCY",
+    "name": "Synchrony",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SCYfrGCw8aDiqdgcpdGjV6jp4UVVQLuphxTDLNWu36f/logo.png",
+    "extensions": {
+      "coingeckoId": "synchrony"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "GfJ3Vq2eSTYf1hJP6kKLE9RT6u7jF9gNszJhZwo5VPZp",
+    "symbol": "SOLPAD",
+    "name": "Solpad Finance",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfJ3Vq2eSTYf1hJP6kKLE9RT6u7jF9gNszJhZwo5VPZp/logo.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "coingeckoId": "solpad-finance"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6",
+    "symbol": "LUA",
+    "name": "LuaToken (Wormhole)",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6/logo.png",
+    "tags": [
+      "wrapped",
+      "ethereum"
+    ],
+    "extensions": {
+      "coingeckoId": "lua-token"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "BiDB55p4G3n1fGhwKFpxsokBMqgctL4qnZpDH1bVQxMD",
+    "symbol": "DIO",
+    "name": "Decimated",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BiDB55p4G3n1fGhwKFpxsokBMqgctL4qnZpDH1bVQxMD/logo.png",
+    "tags": [
+      "decimated",
+      "DIO",
+      "videogame",
+      "utility-token",
+      "virtual-currency"
+    ],
+    "extensions": {
+      "coingeckoId": "decimated"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "A9ik2NrpKRRG2snyTjofZQcTuav9yH3mNVHLsLiDQmYt",
+    "symbol": "FRONT",
+    "name": "Frontier Token (Wormhole)",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9ik2NrpKRRG2snyTjofZQcTuav9yH3mNVHLsLiDQmYt/logo.png",
+    "tags": [
+      "wrapped",
+      "ethereum"
+    ],
+    "extensions": {
+      "coingeckoId": "frontier-token"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x",
+    "symbol": "ALEPH",
+    "name": "Aleph.im (Wormhole)",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x/logo.png",
+    "tags": [
+      "wrapped",
+      "ethereum"
+    ],
+    "extensions": {
+      "coingeckoId": "aleph"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
+    "symbol": "renLUNA",
+    "name": "renLUNA",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE/logo.png",
+    "extensions": {
+      "coingeckoId": "terra-luna"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69",
+    "symbol": "CEL",
+    "name": "Celsius (Wormhole)",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69/logo.png",
+    "tags": [
+      "wrapped",
+      "wormhole"
+    ],
+    "extensions": {
+      "coingeckoId": "celsius-degree-token"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "ALKiRVrfLgzeAV2mCT7cJHKg3ZoPvsCRSV7VCRWnE8zQ",
+    "symbol": "NEKI",
+    "name": "Maneki-neko",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALKiRVrfLgzeAV2mCT7cJHKg3ZoPvsCRSV7VCRWnE8zQ/logo.png",
+    "tags": [
+      "utility-token",
+      "meme-token",
+      "neki"
+    ],
+    "extensions": {
+      "coingeckoId": "maneki-neko"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+    "symbol": "stSOL",
+    "name": "Lido Staked SOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj/logo.png",
+    "extensions": {
+      "coingeckoId": "lido-staked-sol"
+    }
   }
 ]
