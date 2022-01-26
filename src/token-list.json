@@ -1,4 +1,5 @@
-[{
+[
+  {
     "chainId": 101,
     "address": "11111111111111111111111111111111",
     "name": "Solana",
@@ -958,10 +959,7 @@
     "name": "Realy Token",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb/logo.svg",
-    "tags": [
-      "Metaverse",
-      "Governance-token"
-    ],
+    "tags": ["Metaverse", "Governance-token"],
     "extensions": {
       "coingeckoId": "realy-metaverse"
     }
@@ -973,9 +971,7 @@
     "name": "basis",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Basis9oJw9j8cw53oMV7iqsgo6ihi9ALw4QR31rcjUJa/logo.png",
-    "tags": [
-      "utility-token"
-    ],
+    "tags": ["utility-token"],
     "extensions": {
       "coingeckoId": "basis-markets"
     }
@@ -987,9 +983,7 @@
     "name": "Kermit",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7xzovRepzLvXbbpVZLYKzEBhCNgStEv1xpDqf1rMFFKX/logo.png",
-    "tags": [
-      "utility-token"
-    ],
+    "tags": ["utility-token"],
     "extensions": {
       "coingeckoId": "kermit"
     }
@@ -1023,12 +1017,7 @@
     "name": "SBF Coin",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx/logo.png",
-    "tags": [
-      "utility-token",
-      "SBF",
-      "sbfcoin",
-      "SBFC"
-    ],
+    "tags": ["utility-token", "SBF", "sbfcoin", "SBFC"],
     "extensions": {
       "coingeckoId": "sbf-coin"
     }
@@ -1040,10 +1029,7 @@
     "name": "Sandbox (Wormhole)",
     "decimals": 8,
     "logoURI": "https://gemini.com/images/currencies/icons/default/sand.svg",
-    "tags": [
-      "wrapped",
-      "wormhole"
-    ],
+    "tags": ["wrapped", "wormhole"],
     "extensions": {
       "coingeckoId": "the-sandbox"
     }
@@ -1055,10 +1041,7 @@
     "name": "Decentraland (Wormhole)",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png",
-    "tags": [
-      "wrapped",
-      "wormhole"
-    ],
+    "tags": ["wrapped", "wormhole"],
     "extensions": {
       "coingeckoId": "decentraland"
     }
@@ -1070,10 +1053,7 @@
     "name": "SHIBA INU (Wormhole)",
     "decimals": 8,
     "logoURI": "https://cloudflare-ipfs.com/ipfs/QmU8BZDCVQuVGyX25ApGGkRy2KKG2QDqe4UhKrxYbNMjwr/",
-    "tags": [
-      "wrapped",
-      "wormhole"
-    ],
+    "tags": ["wrapped", "wormhole"],
     "extensions": {
       "coingeckoId": "shiba-inu"
     }
@@ -1085,10 +1065,7 @@
     "name": "dYdX (Wormhole)",
     "decimals": 8,
     "logoURI": "https://cloudflare-ipfs.com/ipfs/QmWvzRABL7bNs3wjMy6vjvaZs3525XwQDaPspibkqwa1wQ/",
-    "tags": [
-      "wrapped",
-      "wormhole"
-    ],
+    "tags": ["wrapped", "wormhole"],
     "extensions": {
       "coingeckoId": "dydx"
     }
@@ -1100,10 +1077,7 @@
     "name": "Ween",
     "decimals": 0,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DmXfDUeyRJqnpvdjssGgUXwZrRFPXvu2DfMq4jfTTC9C/logo.png",
-    "tags": [
-      "meme-token",
-      "nft"
-    ],
+    "tags": ["meme-token", "nft"],
     "extensions": {
       "coingeckoId": "ween-token"
     }
@@ -1115,12 +1089,7 @@
     "name": "SolChicks",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2/logo.png",
-    "tags": [
-      "gaming",
-      "nfts",
-      "utility-token",
-      "community-token"
-    ],
+    "tags": ["gaming", "nfts", "utility-token", "community-token"],
     "extensions": {
       "coingeckoId": "solchicks-token"
     }
@@ -1132,11 +1101,7 @@
     "name": "1sol.io Token",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF/logo.png",
-    "tags": [
-      "wrapped",
-      "utility-token",
-      "aggregator"
-    ],
+    "tags": ["wrapped", "utility-token", "aggregator"],
     "extensions": {
       "coingeckoId": "1sol"
     }
@@ -1148,10 +1113,7 @@
     "name": "Phantasia",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FANTafPFBAt93BNJVpdu25pGPmca3RfwdsDsRrT3LX1r/logo.png",
-    "tags": [
-      "utility-token",
-      "governance-token"
-    ],
+    "tags": ["utility-token", "governance-token"],
     "extensions": {
       "coingeckoId": "phantasia"
     }
@@ -1185,9 +1147,7 @@
     "name": "AVAX (Wormhole)",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
-    "tags": [
-      "wrapped"
-    ],
+    "tags": ["wrapped"],
     "extensions": {
       "coingeckoId": "avalanche-2"
     }
@@ -1210,9 +1170,7 @@
     "name": "Solpad Finance",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfJ3Vq2eSTYf1hJP6kKLE9RT6u7jF9gNszJhZwo5VPZp/logo.png",
-    "tags": [
-      "utility-token"
-    ],
+    "tags": ["utility-token"],
     "extensions": {
       "coingeckoId": "solpad-finance"
     }
@@ -1224,10 +1182,7 @@
     "name": "LuaToken (Wormhole)",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6/logo.png",
-    "tags": [
-      "wrapped",
-      "ethereum"
-    ],
+    "tags": ["wrapped", "ethereum"],
     "extensions": {
       "coingeckoId": "lua-token"
     }
@@ -1257,10 +1212,7 @@
     "name": "Frontier Token (Wormhole)",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9ik2NrpKRRG2snyTjofZQcTuav9yH3mNVHLsLiDQmYt/logo.png",
-    "tags": [
-      "wrapped",
-      "ethereum"
-    ],
+    "tags": ["wrapped", "ethereum"],
     "extensions": {
       "coingeckoId": "frontier-token"
     }
@@ -1272,10 +1224,7 @@
     "name": "Aleph.im (Wormhole)",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x/logo.png",
-    "tags": [
-      "wrapped",
-      "ethereum"
-    ],
+    "tags": ["wrapped", "ethereum"],
     "extensions": {
       "coingeckoId": "aleph"
     }
@@ -1298,10 +1247,7 @@
     "name": "Celsius (Wormhole)",
     "decimals": 4,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69/logo.png",
-    "tags": [
-      "wrapped",
-      "wormhole"
-    ],
+    "tags": ["wrapped", "wormhole"],
     "extensions": {
       "coingeckoId": "celsius-degree-token"
     }
@@ -1313,11 +1259,7 @@
     "name": "Maneki-neko",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALKiRVrfLgzeAV2mCT7cJHKg3ZoPvsCRSV7VCRWnE8zQ/logo.png",
-    "tags": [
-      "utility-token",
-      "meme-token",
-      "neki"
-    ],
+    "tags": ["utility-token", "meme-token", "neki"],
     "extensions": {
       "coingeckoId": "maneki-neko"
     }
@@ -1359,11 +1301,7 @@
     "name": "Starbots Token",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AkhdZGVbJXPuQZ53u2LrimCjkRP6ZyxG1SoM85T98eE1/logo.png",
-    "tags": [
-      "utility-token",
-      "governance-token",
-      "game-token"
-    ],
+    "tags": ["utility-token", "governance-token", "game-token"],
     "extensions": {
       "coingeckoId": "starbots"
     }
