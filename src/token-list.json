@@ -207,6 +207,18 @@
   },
   {
     "chainId": 101,
+    "address": "ACUMENkbnxQPAsN8XrNA11sY3NmXDNKVCqS82EiDqMYB",
+    "symbol": "ACM",
+    "name": "Acumen Governance Token",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9MhNoxy1PbmEazjPo9kiZPCcG7BiFbhi3bWZXZgacfpp/logo.png",
+    "extensions": {
+      "website": "https://acumen.network/",
+      "serumV3Usdc": "94CZWJMy7Jmc7gSM288WmFfse596H12KCKgwMARkyvhw"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
     "symbol": "USDC",
     "name": "USD Coin",
