@@ -695,7 +695,7 @@
     "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
     "symbol": "wbWBNB",
     "name": "WBNB (Wormhole v2 BSC)",
-    "decimals": 6,
+    "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2/logo.png",
     "tags": ["wrapped", "wormhole"],
     "extensions": {
