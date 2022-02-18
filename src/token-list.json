@@ -1,5 +1,4 @@
-[
-  {
+[{
     "chainId": 101,
     "address": "11111111111111111111111111111111",
     "name": "Solana",
@@ -1358,6 +1357,18 @@
     ],
     "extensions": {
       "coingeckoId": ""
+    }
+  },
+  {
+    "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+    "chainId": 101,
+    "decimals": 6,
+    "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+    "name": "USDH Hubble Stablecoin",
+    "symbol": "USDH",
+    "tags": ["stablecoin", "saber-mkt-usd"],
+    "extensions": {
+      "coingeckoId": "usdh"
     }
   }
 ]
