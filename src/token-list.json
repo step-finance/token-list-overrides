@@ -1370,5 +1370,18 @@
     "extensions": {
       "coingeckoId": "usdh"
     }
+  },
+  {
+    "address": "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
+    "chainId": 101,
+    "decimals": 9,
+
+    "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv.png",
+    "name": "Wrapped CEUR (Allbridge from Celo)",
+    "symbol": "acEUR",
+    "tags": ["stablecoin"],
+    "extensions": {
+      "coingeckoId": "tether-eurt"
+    }
   }
 ]
