@@ -792,7 +792,7 @@
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
     "tags": ["stablecoin"],
     "extensions": {
-      "coingeckoId": "cashio-token"
+      "coingeckoId": "cashio-dollar"
     }
   },
   {
