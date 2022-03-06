@@ -1631,5 +1631,62 @@
     "extensions": {
       "coingeckoId": "mercurial"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "5LSFpvLDkcdV2a3Kiyzmg5YmJsj2XDLySaXvnfP1cgLT",
+    "symbol": "DOGO",
+    "name": "Dogemon",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5LSFpvLDkcdV2a3Kiyzmg5YmJsj2XDLySaXvnfP1cgLT/logo.png",
+    "tags": [
+      "GameFi",
+      "NFT",
+      "DogemonGo"
+    ],
+    "extensions": {
+      "coingeckoId": "dogemon-go"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "seedEDBqu63tJ7PFqvcbwvThrYUkQeqT6NLf81kLibs",
+    "symbol": "SEEDED",
+    "name": "Seeded Network",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/seedEDBqu63tJ7PFqvcbwvThrYUkQeqT6NLf81kLibs/logo.png",
+    "tags": [
+      "lending",
+      "defi"
+    ],
+    "extensions": {
+      "coingeckoId": "seeded-network"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "G9tt98aYSznRk7jWsfuz9FnTdokxS6Brohdo9hSmjTRB",
+    "symbol": "PUFF",
+    "name": "PUFF",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G9tt98aYSznRk7jWsfuz9FnTdokxS6Brohdo9hSmjTRB/logo.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "coingeckoId": "puff"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "METAmTMXwdb8gYzyCPfXXFmZZw4rUsXX58PNsDg7zjL",
+    "symbol": "SLC",
+    "name": "Solice",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/METAmTMXwdb8gYzyCPfXXFmZZw4rUsXX58PNsDg7zjL/logo.png",
+    "tags": [],
+    "extensions": {
+      "coingeckoId": "solice"
+    }
   }
 ]
