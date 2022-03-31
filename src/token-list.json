@@ -1706,5 +1706,176 @@
       "coingeckoId": "sator",
       "website": "https://sator.io"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "7udMmYXh6cuWVY6qQVCd9b429wDVn2J71r5BdxHkQADY",
+    "symbol": "COBAN",
+    "name": "COBAN",
+    "decimals": 3,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7udMmYXh6cuWVY6qQVCd9b429wDVn2J71r5BdxHkQADY/logo.png",
+    "extensions": {
+      "serumV3Usdc": "4VCnuHoo6A3XhQ9YrD6YZWQKVvLxVGzHTB2opNyQi7bz"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "8fd5eUPMNHuyKRshFbfmKRAm2gowJ75m8WjT7tLio6J3",
+    "symbol": "DLN",
+    "name": "Goekdln",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8fd5eUPMNHuyKRshFbfmKRAm2gowJ75m8WjT7tLio6J3/logo.svg",
+    "tags": [
+      "community-token",
+      "meme-token",
+      "social-token",
+      "utility-token"
+    ],
+    "extensions": {
+      "serumV3Usdc": "1DeDcStP8yLorneK4wnaLokRCmGxFiSUSgUwT9V2tgj"
+    }
+  },   
+  {
+    "chainId": 101,
+    "address": "boomh1LQnwDnHtKxWTFgxcbdRjPypRSjdwxkAEJkFSH",
+    "symbol": "BMA",
+    "name": "Boom Army",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/boomh1LQnwDnHtKxWTFgxcbdRjPypRSjdwxkAEJkFSH/logo.svg",
+    "tags": [
+      "utility-token",
+      "community-token",
+      "social-token"
+    ],
+    "extensions": {
+        "serumV3Usdc": "6Yxgcfs3oyZcGSxAemHscLJSZ9YWHymH7MummtiTQadc"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "3EkHyexJLGCvSxzn5umbtd9N69GoT4p5pfdLTFqCNP9Y",
+    "symbol": "HIPPO",
+    "name": "Hippo Coin",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3EkHyexJLGCvSxzn5umbtd9N69GoT4p5pfdLTFqCNP9Y/logo.png",
+    "tags": [
+      "meme-token",
+      "community-token"
+    ],
+    "extensions": {
+      "coingeckoId": "hippo-coin",
+      "serumV3Usdc": "HnLKrfMN64ccSbYCj4DxjgPYveSkFujYrnMr4cvPfL8"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "DiWunPY8GfsFthdDAwiRRtCgKCB5AEcFx9edDpxZoTyo",
+    "symbol": "GMORNN",
+    "name": "gmornn",
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DiWunPY8GfsFthdDAwiRRtCgKCB5AEcFx9edDpxZoTyo/logo.png",
+    "extensions": {
+       "serumV3Usdc": "D6ca2PqdmoeFGmwm6ryokFXxCEBzgRRNVXBrNqbywnqZ"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "BgeRyFWWGHeVouqfHfcXUxmvfkgekhrXYVqQWf63kpJB",
+    "symbol": "BAPE",
+    "name": "BAPE",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BgeRyFWWGHeVouqfHfcXUxmvfkgekhrXYVqQWf63kpJB/logo.png",
+    "extensions": {
+      "coingeckoId": "bored-ape-social-club",
+      "serumV3Usdc": "5ygcSjBuorC12JEzf5mvDzcWpdSLPDGgbDU4LompEFA"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "Gz3u6eJaKEviYpPC5AwUziz891kNX76PNdsmJrnaNNY4",
+    "symbol": "SOULO",
+    "name": "SouloCoin",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gz3u6eJaKEviYpPC5AwUziz891kNX76PNdsmJrnaNNY4/logo.png",
+    "tags": [
+      "utility-token",
+      "NFT",
+      "game-token",
+      "GameFi"
+    ],
+    "extensions": {
+      "serumV3Usdc": "EmKW38yeXHetYYGVnfnuHJB7WEv11dcrofD4sdqZ2SSV"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "DK6PWMyuZ4NMjsm9AWNCTMKrajQYrtfMjMJ3QauX2UH5",
+    "symbol": "BITXBIT",
+    "name": "BITXBIT",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DK6PWMyuZ4NMjsm9AWNCTMKrajQYrtfMjMJ3QauX2UH5/logo.png",
+    "tags": [
+      "social-token",
+      "technology",
+      "utility-token"
+    ],
+    "extensions": {
+      "serumV3Usdc": "ABydcz3WA6JH4mMkuTLQwdqrRFuvrNrQd3J83uFM5oB"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "Aw8qLRHGhMcKq7rxs5XBNCd9oe3BvoAhpNMVz7AdGmty",
+    "symbol": "PANDA",
+    "name": "Panda Coin",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Aw8qLRHGhMcKq7rxs5XBNCd9oe3BvoAhpNMVz7AdGmty/logo.png",
+    "tags": [
+      "meme-token",
+      "community-token"
+    ],
+    "extensions": {
+      "coingeckoId": "panda-coin",
+      "serumV3Usdc": "GdmQtZpXZiasZi6TVsDHVLeNvPZY1dmuQ82KXDcKEJPy"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "Ed5nxXh2TT1Ry7MuX4Hi5YuCAnjmXEcpJ9LhdmDbCFQS",
+    "symbol": "FUM",
+    "name": "FUM",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ed5nxXh2TT1Ry7MuX4Hi5YuCAnjmXEcpJ9LhdmDbCFQS/logo.png",
+    "tags": [
+      "social-token",
+      "utility-token",
+      "community-token"
+    ],
+    "extensions": {
+      "serumV3Usdc": "4M1uP9mYnbraCvw4JuiqFas63K1o74LeoJwpVDW3AAmG"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "Ed5nxXh2TT1Ry7MuX4Hi5YuCAnjmXEcpJ9LhdmDbCFQS",
+    "name": "Fum",
+    "decimals": 9,
+    "symbol": "FUM",
+    "logoURI": "https://raw.githubusercontent.com/FUMoney801/token-list/main/assets/mainnet/EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz/logo.png",
+    "tags": [],
+    "extensions": {
+      "serumV3Usdc": "4M1uP9mYnbraCvw4JuiqFas63K1o74LeoJwpVDW3AAmG"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "GV3MjuGin8aTG6Rhc1vR1QFYp8gq5vW39jnNPLrbzmPi",
+    "symbol": "creatorpro",
+    "name": "creatorPRO",
+    "decimals": 6,
+    "logoURI": "https://creatorpro.live/simbolo-creator.png",
+    "extensions": {
+      "serumV3Usdc": "8NXzq2GgXJBfXswhG46tQWTjt6NpiTsBseKs46yuTrVr"
+    }
   }
 ]
