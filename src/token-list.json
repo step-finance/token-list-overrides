@@ -1721,10 +1721,7 @@
       "GameFi"
     ],
     "extensions": {
-      "coingeckoId": "soulocoin",
-      "discord": "https://discord.gg/soulofox",
-      "twitter": "https://twitter.com/soulofoxnft",
-      "website": "https://app.soulofox.com"
+      "coingeckoId": "soulocoin"
     }
   },
   {
@@ -1739,9 +1736,7 @@
       "utility-token"
     ],
     "extensions": {
-      "coingeckoId": "fumoney",
-      "twitter": "https://twitter.com/FUMindset",
-      "website": "https://FUMoney.io/"
+      "coingeckoId": "fumoney"
     }
   }
 ]
