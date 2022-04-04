@@ -1709,6 +1709,17 @@
   },
   {
     "chainId": 101,
+    "address": "7udMmYXh6cuWVY6qQVCd9b429wDVn2J71r5BdxHkQADY",
+    "symbol": "COBAN",
+    "name": "COBAN",
+    "decimals": 3,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7udMmYXh6cuWVY6qQVCd9b429wDVn2J71r5BdxHkQADY/logo.png",
+    "extensions": {
+       "coingeckoId": "coban"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "Gz3u6eJaKEviYpPC5AwUziz891kNX76PNdsmJrnaNNY4",
     "symbol": "SOULO",
     "name": "SouloCoin",
