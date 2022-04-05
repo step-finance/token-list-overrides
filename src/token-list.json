@@ -1749,5 +1749,66 @@
     "extensions": {
       "coingeckoId": "fumoney"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF",
+    "symbol": "ZBC",
+    "name": "ZEBEC",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF/logo.png",
+    "tags": [
+      "utility-token",
+      "veni",
+      "vidi",
+      "vici"
+    ],
+    "extensions": {
+      "coingeckoId": "zebec-protocol"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "AAXng5czWLNtTXHdWEn9Ef7kXMXEaraHj2JQKo7ZoLux",
+    "symbol": "DGE",
+    "name": "DarleyGo Essence",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/DarleyGo/token-list/main/assets/mainnet/AAXng5czWLNtTXHdWEn9Ef7kXMXEaraHj2JQKo7ZoLux/icon.png",
+    "tags": [
+      "game-token",
+      "game-currency",
+      "Gaming"
+    ],
+    "extensions": {
+      "coingeckoId": "darleygo-essence"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "SLCLww7nc1PD2gQPQdGayHviVVcpMthnqUz2iWKhNQV",
+    "symbol": "SLCL",
+    "name": "Solcial token",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLCLww7nc1PD2gQPQdGayHviVVcpMthnqUz2iWKhNQV/logo.png",
+    "tags": [
+      "social-token",
+      "community-token",
+      "utility-token",
+      "nfts"
+    ],
+    "extensions": {
+      "coingeckoId": "solcial"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "ratioMVg27rSZbSvBopUvsdrGUzeALUfFma61mpxc8J",
+    "symbol": "RATIO",
+    "name": "Ratio Governance Token",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ratioMVg27rSZbSvBopUvsdrGUzeALUfFma61mpxc8J/logo.svg",
+    "extensions": {
+      "coingeckoId": "ratio-finance"
+    }
   }
 ]
