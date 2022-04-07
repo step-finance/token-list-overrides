@@ -1799,6 +1799,17 @@
   },
   {
     "chainId": 101,
+    "address": "CJiyMgq41YYH9McFQANw69KWyj74H8NjgVauaS1mfs39",
+    "symbol": "DEST",
+    "name": "Destiny",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/Anonymous-Pentester/logo/main/logo1.png",
+    "extensions": {
+      "coingeckoId": "solana"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "SLCLww7nc1PD2gQPQdGayHviVVcpMthnqUz2iWKhNQV",
     "symbol": "SLCL",
     "name": "Solcial token",
@@ -1826,3 +1837,4 @@
     }
   }
 ]
+  
