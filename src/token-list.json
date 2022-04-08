@@ -1816,6 +1816,72 @@
   },
   {
     "chainId": 101,
+    "address": "HgCCkxNtCJDPiHyi2STKbcNg74g7NrbTYep4JCFZzTBt",
+    "symbol": "MMA",
+    "name": "Metaverse Mining Alliance",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HgCCkxNtCJDPiHyi2STKbcNg74g7NrbTYep4JCFZzTBt/logo_small.jpg",
+    "tags": [
+      "utility-token",
+      "community-token"
+    ],
+    "extensions": {
+      "coingeckoId": "mma-gaming"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
+    "symbol": "GST",
+    "name": "GST",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB/logo.png",
+    "extensions": {
+      "coingeckoId": "green-satoshi-token"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+    "symbol": "GMT",
+    "name": "GMT",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx/logo.png",
+    "extensions": {
+      "coingeckoId": "stepn"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "SuperbZyz7TsSdSoFAZ6RYHfAWe9NmjXBLVQpS8hqdx",
+    "symbol": "SB",
+    "name": "SuperBonds Token",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SuperbZyz7TsSdSoFAZ6RYHfAWe9NmjXBLVQpS8hqdx/logo.svg",
+    "tags": [
+      "defi-token"
+    ],
+    "extensions": {
+      "coingeckoId": "superbonds"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "ZScHuTtqZukUrtZS43teTKGs2VqkKL8k4QCouR2n6Uo",
+    "symbol": "wstETH",
+    "name": "Lido Wrapped Staked ETH",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZScHuTtqZukUrtZS43teTKGs2VqkKL8k4QCouR2n6Uo/logo.png",
+    "tags": [
+      "stake",
+      "wrapped"
+    ],
+    "extensions": {
+      "coingeckoId": "wrapped-steth"
+    }
+  },
+  {
+    "chainId": 101,
     "address": "ratioMVg27rSZbSvBopUvsdrGUzeALUfFma61mpxc8J",
     "symbol": "RATIO",
     "name": "Ratio Governance Token",
