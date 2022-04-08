@@ -1816,14 +1816,13 @@
   },
   {
     "chainId": 101,
-    "address": "HgCCkxNtCJDPiHyi2STKbcNg74g7NrbTYep4JCFZzTBt",
+    "address": "MMAx26JtJgSWv6yH48nEHCGZcVvRbf9Lt9ALa7jSipe",
     "symbol": "MMA",
     "name": "Metaverse Mining Alliance",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HgCCkxNtCJDPiHyi2STKbcNg74g7NrbTYep4JCFZzTBt/logo_small.jpg",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MMAx26JtJgSWv6yH48nEHCGZcVvRbf9Lt9ALa7jSipe/logo.png",
     "tags": [
-      "utility-token",
-      "community-token"
+      "utility-token"
     ],
     "extensions": {
       "coingeckoId": "mma-gaming"
