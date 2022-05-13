@@ -1495,7 +1495,11 @@
     "name": "Solend ETH",
     "decimals": 8,
     "logoURI": "https://solend.fi/assets/ctokens/ceth.svg",
-    "tags": ["solend"],
+    "tags": [
+      "solend",
+      "lending",
+      "collateral-tokens"
+    ],,
     "extensions": {
       "coingeckoId": "ethereum"
     }
@@ -1603,7 +1607,11 @@
     "name": "Solend FTT",
     "decimals": 8,
     "logoURI": "https://solend.fi/assets/ctokens/cftt.svg",
-    "tags": ["solend"],
+    "tags": [
+      "solend",
+      "lending",
+      "collateral-tokens"
+    ],,
     "extensions": {
       "coingeckoId": "ftx-token"
     }
