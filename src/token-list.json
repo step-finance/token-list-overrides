@@ -1499,7 +1499,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],,
+    ],
     "extensions": {
       "coingeckoId": "ethereum"
     }
@@ -1611,7 +1611,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],,
+    ],
     "extensions": {
       "coingeckoId": "ftx-token"
     }
