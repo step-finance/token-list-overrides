@@ -1931,5 +1931,90 @@
     "extensions": {
       "coingeckoId": "soldex"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "FbKvdbx5h6F86h1pZuEqv7FxwmsVhJ88cDuSqHvLm6Xf",
+    "symbol": "cETH",
+    "name": "Solend ETH",
+    "decimals": 8,
+    "logoURI": "https://solend.fi/assets/ctokens/ceth.svg",
+    "tags": [
+      "solend",
+      "lending",
+      "collateral-tokens"
+    ],
+    "extensions": {
+      "website": "https://solend.fi",
+      "coingeckoId": "ethereum"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "DiMx1n2dJmxqFtENRPhYWsqi8Mhg2p39MpTzsm6phzMP",
+    "symbol": "cFTT",
+    "name": "Solend FTT",
+    "decimals": 8,
+    "logoURI": "https://solend.fi/assets/ctokens/cftt.svg",
+    "tags": [
+      "solend",
+      "lending",
+      "collateral-tokens"
+    ],
+    "extensions": {
+      "website": "https://solend.fi",
+      "coingeckoId": "ftx-token"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "D3Cu5urZJhkKyNZQQq2ne6xSfzbXLU4RrywVErMA2vf8",
+    "symbol": "cSLND",
+    "name": "Solend SLND",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D3Cu5urZJhkKyNZQQq2ne6xSfzbXLU4RrywVErMA2vf8/logo.png",
+    "tags": [
+      "solend",
+      "lending",
+      "collateral-tokens"
+    ],
+    "extensions": {
+      "website": "https://solend.fi",
+      "coingeckoId": "solend"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "QQ6WK86aUCBvNPkGeYBKikk15sUg6aMUEi5PTL6eB4i",
+    "symbol": "cstSOL",
+    "name": "Lido Staked SOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/QQ6WK86aUCBvNPkGeYBKikk15sUg6aMUEi5PTL6eB4i/logo.png",
+    "tags": [
+      "solend",
+      "lending",
+      "collateral-tokens"
+    ],
+    "extensions": {
+      "website": "https://solend.fi",
+      "coingeckoId": "lido-staked-sol"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "AFq1sSdevxfqWGcmcz7XpPbfjHevcJY7baZf9RkyrzoR",
+    "symbol": "cscnSOL",
+    "name": "Socean Staked Sol",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AFq1sSdevxfqWGcmcz7XpPbfjHevcJY7baZf9RkyrzoR/logo.png",
+    "tags": [
+      "solend",
+      "lending",
+      "collateral-tokens"
+    ],
+    "extensions": {
+      "website": "https://solend.fi",
+      "coingeckoId": "socean-staked-sol"
+    }
   }
 ]
