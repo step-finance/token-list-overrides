@@ -2016,5 +2016,20 @@
       "website": "https://solend.fi",
       "coingeckoId": "socean-staked-sol"
     }
-  }
+  },
+  {
+    "chainId": 101,
+    "address": "rBsH9ME52axhqSjAVXY3t1xcCrmntVNvP3X16pRjVdM",
+    "symbol": "rBASIS",
+    "name": "rBasis",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rBsH9ME52axhqSjAVXY3t1xcCrmntVNvP3X16pRjVdM/logo.png",
+    "tags": [
+        "utility-token"
+    ],
+    "extensions": {
+        "website": "https://staking.basis.markets",
+        "coingeckoId": "basis-markets"
+    }
+}
 ]
