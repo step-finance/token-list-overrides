@@ -2016,5 +2016,19 @@
       "website": "https://solend.fi",
       "coingeckoId": "socean-staked-sol"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg",
+    "symbol": "CYS",
+    "name": "Cykura",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg/logo.svg",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "coingeckoId": "cyclos"
+    }
   }
 ]
