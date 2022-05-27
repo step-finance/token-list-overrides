@@ -292,7 +292,7 @@
   {
     "chainId": 101,
     "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
-    "symbol": "swhETH-9",
+    "symbol": "ETH",
     "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
     "decimals": 9,
     "tags": ["saber-market-eth", "wormhole-v2", "saber-decimal-wrapped"],
