@@ -2030,5 +2030,32 @@
     "extensions": {
       "coingeckoId": "cyclos"
     }
-  }
+  },
+  {
+    "chainId": 101,
+    "address": "7s6NLX42eURZfpyuKkVLrr9ED9hJE8718cyXFsYKqq5g",
+    "symbol": "GEAR",
+    "name": "Gear Token",
+    "decimals": 9,
+    "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/7s6NLX42eURZfpyuKkVLrr9ED9hJE8718cyXFsYKqq5g/logo.png?raw=true",
+     "extensions": {
+      "coingeckoId": "gear"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "AttCypPTiTgGpxeHYeFZ6dTwZqd1iqf5MPoG12TQrf1C",
+    "symbol": "HTO",
+    "name": "Heaven Land Metaverse",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/htoHLBJV1err8xP5oxyQdV2PLQhtVjxLXpKB7FsgJQD/logo.png",
+    "tags": [
+      "utility-token",
+      "governance-token",
+      "metaverse"
+    ],
+    "extensions": {
+      "coingeckoId": "heavenland-hto"
+     }
+   }
 ]
