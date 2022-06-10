@@ -2057,5 +2057,42 @@
     "extensions": {
       "coingeckoId": "heavenland-hto"
      }
+   },
+   {
+    "chainId": 101,
+    "address": "2cJgFtnqjaoiu9fKVX3fny4Z4pRzuaqfJ3PBTMk2D9ur",
+    "symbol": "PLD",
+    "name": "Plutonian DAO",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2cJgFtnqjaoiu9fKVX3fny4Z4pRzuaqfJ3PBTMk2D9ur/logo.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "description": "Plutonian DAO Token",
+      "serumV3Usdc": "5ocAKeiikP1y9wZhgNQDKu3UXxrYusxmDVnp44z4jner",
+      "twitter": "https://twitter.com/plutoniansgame",
+      "website": "https://plutonians.tech",
+      "coinmarketcap": "https://coinmarketcap.com/currencies/plutonians-tech/",
+      "coingeckoId": "plutonian-dao"
+    }
+   },{
+    "chainId": 101,
+    "address": "EAefyXw6E8sny1cX3LTH6RSvtzH6E5EFy1XsE2AiH1f3",
+    "symbol": "RPC",
+    "name": "Republic Credits",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EAefyXw6E8sny1cX3LTH6RSvtzH6E5EFy1XsE2AiH1f3/logo.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "description": "Republic Credits",
+      "serumV3Usdc": "vfARqzk9ZtFpK7etvUq23QzWidopgwBzJx29je7JER8",
+      "twitter": "https://twitter.com/plutoniansgame",
+      "website": "https://plutonians.tech",
+      "coinmarketcap": "https://coinmarketcap.com/currencies/plutonians/",
+      "coingeckoId": "republic-credits"
+    }
    }
 ]
