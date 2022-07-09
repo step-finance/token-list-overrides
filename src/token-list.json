@@ -1706,7 +1706,7 @@
       "coingeckoId": "sator",
       "website": "https://sator.io"
     }
-  },  
+  },
   {
     "chainId": 101,
     "address": "YAWtS7vWCSRPckx1agB6sKidVXiXiDUfehXdEUSRGKE",
@@ -1729,7 +1729,7 @@
     "decimals": 3,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7udMmYXh6cuWVY6qQVCd9b429wDVn2J71r5BdxHkQADY/logo.png",
     "extensions": {
-       "coingeckoId": "coban"
+      "coingeckoId": "coban"
     }
   },
   {
@@ -2038,7 +2038,7 @@
     "name": "Gear Token",
     "decimals": 9,
     "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/7s6NLX42eURZfpyuKkVLrr9ED9hJE8718cyXFsYKqq5g/logo.png?raw=true",
-     "extensions": {
+    "extensions": {
       "coingeckoId": "gear"
     }
   },
@@ -2056,9 +2056,9 @@
     ],
     "extensions": {
       "coingeckoId": "heavenland-hto"
-     }
-   },
-   {
+    }
+  },
+  {
     "chainId": 101,
     "address": "2cJgFtnqjaoiu9fKVX3fny4Z4pRzuaqfJ3PBTMk2D9ur",
     "symbol": "PLD",
@@ -2076,7 +2076,7 @@
       "coinmarketcap": "https://coinmarketcap.com/currencies/plutonians-tech/",
       "coingeckoId": "plutonian-dao"
     }
-   },{
+  }, {
     "chainId": 101,
     "address": "EAefyXw6E8sny1cX3LTH6RSvtzH6E5EFy1XsE2AiH1f3",
     "symbol": "RPC",
@@ -2093,24 +2093,41 @@
       "website": "https://plutonians.tech",
       "coinmarketcap": "https://coinmarketcap.com/currencies/plutonians/",
       "coingeckoId": "republic-credits"
-    
+
     }
   },
   {
-   "chainId": 101,
-   "address": "9tzZzEHsKnwFL1A3DyFJwj36KnZj3gZ7g4srWp9YTEoh",
-   "symbol": "ARB",
-   "name": "ARB Protocol",
-   "decimals": 6,
-   "logoURI": "https://raw.githubusercontent.com/ARBProtocol/arbprotocol/main/IMG_3600.png",
-   "tags": [
-     "utility-token"
-   ],
-   "extensions": {
-     "serumV3Usdc": "Hc4YSWQMii3smLVRacH1JbPVH65ifBtoj4rGjVWKXmAs",
-     "twitter": "https://twitter.com/arbprotocol",
-     "website": "https://arbsolana.com/",
-     "coingeckoId": "arb-protocol"
-  }
+    "chainId": 101,
+    "address": "9tzZzEHsKnwFL1A3DyFJwj36KnZj3gZ7g4srWp9YTEoh",
+    "symbol": "ARB",
+    "name": "ARB Protocol",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/ARBProtocol/arbprotocol/main/IMG_3600.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "serumV3Usdc": "Hc4YSWQMii3smLVRacH1JbPVH65ifBtoj4rGjVWKXmAs",
+      "twitter": "https://twitter.com/arbprotocol",
+      "website": "https://arbsolana.com/",
+      "coingeckoId": "arb-protocol"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "674PmuiDtgKx3uKuJ1B16f9m5L84eFvNwj3xDMvHcbo7",
+    "symbol": "$WOOD",
+    "name": "Mindfolk Wood",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/Alfred-builder/Alfred-builder/main/wood.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "coingeckoId": "mindfolk-wood",
+      "discord": "https://discord.gg/mindfolk",
+      "twitter": "https://twitter.com/mindfolkART",
+      "website": "https://www.mindfolk.art/"
+    }
   }
 ]
