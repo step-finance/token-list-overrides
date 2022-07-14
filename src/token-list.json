@@ -726,18 +726,6 @@
   },
   {
     "chainId": 101,
-    "address": "FNFKRV3V8DtA3gVJN6UshMiLGYA8izxFwkNWmJbFjmRj",
-    "symbol": "TTT",
-    "name": "TabTrader Token",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FNFKRV3V8DtA3gVJN6UshMiLGYA8izxFwkNWmJbFjmRj/logo.svg",
-    "tags": ["utility-token"],
-    "extensions": {
-      "coingeckoId": "tabtrader"
-    }
-  },
-  {
-    "chainId": 101,
     "address": "333iHoRM2Awhf9uVZtSyTfU8AekdGrgQePZsKMFPgKmS",
     "symbol": "ISOLA",
     "name": "Intersola",
