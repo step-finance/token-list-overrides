@@ -438,7 +438,7 @@
     "symbol": "whETH",
     "name": "Ether (Wormhole)",
     "decimals": 8,
-    "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk.png",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
     "tags": ["saber-market-eth", "wormhole-v2"],
     "extensions": {
       "coingeckoId": "ethereum"
