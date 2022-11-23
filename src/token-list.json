@@ -2132,5 +2132,35 @@
       "twitter": "https://twitter.com/SolanaWhalesNFT",
       "website": "https://solanahodlwhales.io"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+    "symbol": "BTC",
+    "name": "Wrapped Bitcoin (Sollet)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+    "tags": [
+      "wrapped-sollet",
+      "ethereum"
+    ],
+    "extensions": {
+      "coingeckoId": "wrapped-bitcoin-sollet"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+    "symbol": "soETH",
+    "name": "Wrapped Ethereum (Sollet)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
+    "tags": [
+      "wrapped-sollet",
+      "ethereum"
+    ],
+    "extensions": {
+      "coingeckoId": "wrapped-ethereum-sollet"
+    }
   }
 ]
