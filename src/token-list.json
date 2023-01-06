@@ -2162,5 +2162,16 @@
     "extensions": {
       "coingeckoId": "wrapped-ethereum-sollet"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "USDrbBQwQbQ2oWHUPfA8QBHcyVxKUq1xHyXsSLKdUq2",
+    "symbol": "USDr",
+    "name": "Ratio Stable Token",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDrbBQwQbQ2oWHUPfA8QBHcyVxKUq1xHyXsSLKdUq2/logo.png",
+    "extensions": {
+      "coingeckoId": "ratio-stable-coin"
+    }
   }
 ]
