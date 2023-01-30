@@ -2170,5 +2170,15 @@
     "extensions": {
       "coingeckoId": "ratio-stable-coin"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+    "symbol": "COW",
+    "name": "CashCow",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/19388/large/cash_cow.png?1648265503",
+    "extensions": {
+    }
   }
 ]
