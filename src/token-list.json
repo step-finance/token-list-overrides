@@ -2147,5 +2147,20 @@
     "extensions": {
       "coingeckoId": "dai"
     }
+  },
+  {
+    "chainId": 101,
+    "address": "HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH",
+    "symbol": "CREAM",
+    "name": "Cream (Portal)",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH/logo.png",
+    "tags": [
+      "wrapped",
+      "wormhole"
+    ],
+    "extensions": {
+      "coingeckoId": "cream-2"
+    }
   }
 ]
