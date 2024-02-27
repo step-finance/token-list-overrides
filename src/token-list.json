@@ -156,8 +156,19 @@
     "tags": ["wrapped"],
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
     "extensions": {
-      "website": "https://renproject.io/",
-      "coingeckoId": "bitcoin"
+      "website": "https://renproject.io/"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+    "symbol": "renBTC",
+    "name": "renBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5/logo.png",
+    "extensions": {
+      "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+      "website": "https://renproject.io/"
     }
   },
   {
