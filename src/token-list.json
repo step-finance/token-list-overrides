@@ -1403,10 +1403,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "solana"
-    }
+    ]
   },
   {
     "chainId": 101,
@@ -1419,10 +1416,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "usd-coin"
-    }
+    ]
   },
   {
     "chainId": 101,
@@ -1435,10 +1429,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "ethereum"
-    }
+    ]
   },
   {
     "chainId": 101,
@@ -1451,10 +1442,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "ethereum"
-    }
+    ]
   },
   {
     "chainId": 101,
@@ -1467,10 +1455,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "bitcoin"
-    }
+    ]
   },
   {
     "chainId": 101,
@@ -1483,10 +1468,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "serum"
-    }
+    ]
   },
   {
     "chainId": 101,
@@ -1499,10 +1481,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "tether"
-    }
+    ]
   },
   {
     "chainId": 101,
@@ -1515,10 +1494,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "ftx-token"
-    }
+    ]
   },
   {
     "chainId": 101,
@@ -1531,10 +1507,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "ftx-token"
-    }
+    ]
   },
   {
     "chainId": 101,
@@ -1547,10 +1520,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "raydium"
-    }
+    ]
   },
   {
     "chainId": 101,
@@ -1563,10 +1533,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "saber"
-    }
+    ]
   },
   {
     "chainId": 101,
@@ -1579,10 +1546,7 @@
       "solend",
       "lending",
       "collateral-tokens"
-    ],
-    "extensions": {
-      "coingeckoId": "mercurial"
-    }
+    ]
   },
   {
     "chainId": 101,
